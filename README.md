@@ -1,7 +1,7 @@
 # ai-drawing-machine
-an introduction to ai models based on simple drawings
+An introduction to ai models based on simple drawings
 
-## tutorial inspirattion
+## tutorial inspiration
 [CODING TRAIN](https://www.youtube.com/watch?v=ZCXkvwLxBrA)
 Coding Challenge #153: Interactive Drawing with Machine Learning Model (SketchRNN)
 
